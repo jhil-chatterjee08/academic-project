@@ -11,5 +11,9 @@ This project is a web-based visualization tool to simulate **memory allocation s
 - 🧹 Clear previous data easily
 - 📱 Responsive layout for all screen sizes
 
+## 🔗 Live Demo
+
+[Click here to view the live project](https://jhil-chatterjee08.github.io/academic-project/)
+---
 
 
